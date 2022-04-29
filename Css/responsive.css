@@ -214,3 +214,10 @@
 @media (max-width: 380px) {
   .cunter-wrapper [class*="col-"] {max-width: 100%;flex: 0 0 100%;}
 }
+
+
+.pic {
+  position: relative;
+  padding-left: 50px;
+  size: 50px;
+}
