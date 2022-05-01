@@ -192,6 +192,7 @@ body .theme-button-one:hover {background:#000f32; }
   bottom: 0;
   left:50%;
   margin-left: -20px;
+
 }
 .theme-title-one p {padding-top: 20px;}
 /*------------------- Theme Pagination ------------------*/
@@ -215,13 +216,13 @@ body .theme-button-one:hover {background:#000f32; }
 .header-one .top-header {background: #fff;padding: 40px 0 32px 0;}
 .header-one .top-header .address-wrapper li {display: inline-block;vertical-align: middle;}
 .header-one .top-header .address-wrapper .quotes a {
-  font-size: 14px;
-  font-weight: 700;
+  font-size: 18px;
+  font-weight: 800;
   text-transform: uppercase;
-  line-height: 46px;
-  padding: 0 27px;
+  line-height: 62px;
+  padding: 0 25px;
   border-width: 2px;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 .header-one .top-header .address-wrapper .quotes a:hover {color: #fff;}
 .header-one .top-header .address-wrapper .address {
@@ -242,7 +243,7 @@ body .theme-button-one:hover {background:#000f32; }
   right: 0;
   width: 1px;
   height: 42px;
-  background: #e8e8e8;
+  background: #c75252;
 }
 .header-one .top-header .address-wrapper .address:first-child {margin-right: 35px;}
 /*--------------------------- Theme Header Two  ---------------------*/
@@ -437,7 +438,7 @@ body .theme-button-one:hover {background:#000f32; }
   padding: 0;
 }
 #theme-main-banner .camera_caption h1 {text-transform: uppercase;padding: 30px 0 35px 0;}
-#theme-main-banner .camera_caption p {
+#theme-main-banner .camera_caption p  {
   font-size: 26px;
   line-height: 35px;
   color: #556382;
@@ -714,7 +715,7 @@ body .theme-button-one:hover {background:#000f32; }
 .consultation-form .theme-title-one {margin-bottom: 55px;}
 .consultation-form .main-content {box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.08);}
 .consultation-form .img-box {
-  background: url(../images/home/10.jpg) no-repeat center;
+  background: url(../images/sarah-elizabeth-O3gOgPB4sRU-unsplash.jpg) no-repeat center;
   background-size: cover;
   height: 500px;
   border-radius: 5px 0 0 5px;
@@ -773,7 +774,7 @@ body .theme-button-one:hover {background:#000f32; }
   text-transform: uppercase;
   margin-bottom: 30px;
 }
-.theme-footer-one .top-footer .about-widget p {
+.theme-footer-one .top-footer .about-widget p a {
   font-size: 17px;
   line-height: 25px;
   color: #9ca6bf;
@@ -876,12 +877,12 @@ body .theme-button-one:hover {background:#000f32; }
   color: #9ca6bf;
 }
 .theme-footer-one .bottom-footer {background: #001138;padding: 15px 0;}
-.theme-footer-one .bottom-footer p {color: #9ca6bf;line-height: 25px;font-size: 17px;}
+.theme-footer-one .bottom-footer p {color: #9ca6bf;line-height: 30px;font-size: 17px;}
 .theme-footer-one .bottom-footer ul {text-align: right;}
 .theme-footer-one .bottom-footer ul li {display: inline-block;line-height: 25px;}
 .theme-footer-one .bottom-footer ul li a {
   font-family: 'Source Sans Pro', sans-serif;
-  font-size: 17px;
+  font-size: 20px;
   color: #9ca6bf;
   margin-left: 35px;
 }
@@ -2041,4 +2042,15 @@ body .theme-button-one:hover {background:#000f32; }
 
 .consultation-form{
   padding-top: 100px;
+}
+.icon{
+  color: #a4c7d5;
+
+}
+
+.iconloc{
+  color: #26ace3;
+}
+.mail{
+  color: #a4c7d5;
 }
